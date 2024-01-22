@@ -1,4 +1,4 @@
-👋 Hi, I’m @Pinacolads
+#👋 Hi, I’m @Pinacolads
 
 - 👀 I’m interested in ur mom
 - 🌱 I’m currently learning coding stuff idk 

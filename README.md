@@ -5,7 +5,7 @@
 - 📫 How to reach me: idk email 
 - ⚡ Fun fact: Cookie Clicker's pretty cool brah
 
-Languages I know: Python, JavaScript, CSS, HTML, and a little bit of C++ (even though I hate it) 
+Languages I know: Python, JavaScript, CSS, HTML, Swift and a little bit of C++ (even though I hate it) 
 
 
 <!---
